@@ -1,0 +1,157 @@
+.scheduleContainer {
+  display: grid;
+  grid-gap: 0.2rem;
+  grid-template-columns: 5rem repeat(4, 1fr);
+  grid-template-rows: repeat(9, 1fr);
+  grid-template-areas: "time1900 stage stage stage stage" "time1930 stage stage stage stage" "time2000 stage stage stage stage" "time2030 stage stage stage stage" "time2100 stage stage stage stage" "time2130 stage stage stage stage" "time2200 stage stage stage stage" "time2230 stage stage stage stage" "time2300 stage stage stage stage";
+}
+/**
+ * Time
+ */
+.time {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  border-top: thin dotted #ccc;
+  height: 100%;
+  padding: 0 0.5rem;
+}
+.time.start-1900 {
+  grid-area: time1900;
+}
+.time.start-1930 {
+  grid-area: time1930;
+}
+.time.start-2000 {
+  grid-area: time2000;
+}
+.time.start-2030 {
+  grid-area: time2030;
+}
+.time.start-2100 {
+  grid-area: time2100;
+}
+.time.start-2130 {
+  grid-area: time2130;
+}
+.time.start-2200 {
+  grid-area: time2200;
+}
+.time.start-2230 {
+  grid-area: time2230;
+}
+.time.start-2300 {
+  grid-area: time2300;
+}
+.time[class*="30"]:not(.start-1900) {
+  font-size: 0.8rem;
+  color: #ccc;
+}
+
+/**
+ * Event
+ */
+.event {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 0.5rem 1rem;
+  background-color: orange;
+  border-radius: 0.2rem;
+  font-size: 0.8rem;
+  font-weight: bold;
+  line-height: 1.4;
+}
+.event span {
+  display: block;
+  width: 100%;
+  font-size: 0.8em;
+  font-weight: normal;
+}
+.event.start-1900 {
+  grid-row-start: time1900;
+}
+.event.start-1930 {
+  grid-row-start: time1930;
+}
+.event.start-2000 {
+  grid-row-start: time2000;
+}
+.event.start-2030 {
+  grid-row-start: time2030;
+}
+.event.start-2100 {
+  grid-row-start: time2100;
+}
+.event.start-2130 {
+  grid-row-start: time2130;
+}
+.event.start-2200 {
+  grid-row-start: time2200;
+}
+.event.start-2230 {
+  grid-row-start: time2230;
+}
+.event.start-2300 {
+  grid-row-start: time2300;
+}
+
+
+.event.end-1900 {
+  grid-row-end: time1900;
+}
+.event.end-1930 {
+  grid-row-end: time1930;
+}
+.event.end-2000 {
+  grid-row-end: time2000;
+}
+.event.end-2030 {
+  grid-row-end: time2030;
+}
+.event.end-2100 {
+  grid-row-end: time2100;
+}
+.event.end-2130 {
+  grid-row-end: time2130;
+}
+.event.end-2200 {
+  grid-row-end: time2200;
+}
+.event.end-2230 {
+  grid-row-end: time2230;
+}
+.event.end-2300 {
+  grid-row-end: time2300;
+}
+
+.event.length-1 {
+  grid-column-end: span 1;
+}
+.event.length-2 {
+  grid-column-end: span 2;
+}
+.event.length-3 {
+  grid-column-end: span 3;
+}
+.event.length-4 {
+  grid-column-end: span 4;
+}
+.event.stage-earth {
+  background-color: #FFA726;
+}
+.event.stage-mercury {
+  background-color: #9CCC65;
+}
+.event.stage-venus {
+  background-color: #FF8A65;
+}
+.event.stage-mars {
+  background-color: #B3E5FC;
+}
+.event.stage-jupiter {
+  background-color: #81D4FA;
+}
+.event.stage-saturn {
+  background-color: #26C6DA;
+}
