@@ -26,7 +26,7 @@
 				<!-- Nav -->
 					<nav id="nav">
 						<ul class="links">
-							<li class="active"><a href="#">À moi</a></li>
+							<li class="active"><a href="#">2nuts</a></li>
 							<li ><a href="index.php">Les MMI d'or ?</a></li>
 							<li><a href="films.php">Les Films</a></li>
 							<li><a href="soiree.php">La soirée</a></li>
@@ -45,18 +45,18 @@
 						<div class=movie_view>
 						<div>
 							<div>
-								<img src="./images/movies/a_moi.png">
+								<img src="./images/movies/2nuts.png">
 							</div>
 							<div>
-								<h2>À moi</h2>
-								<p id='time'>Durée: 8 minutes</p>
-								<a href="https://youtu.be/Ae0SJG26FXI" target="_blank">Teaser</a>
+								<h2>2nuts</h2>
+								<p id='time'>Durée: 9 minutes</p>
+								<a href="https://www.youtube.com/watch?v=0RgHbZXDVS8" target="_blank">Teaser</a>
 							</div>
 
 						</div>
 							<div>
 								<h3>Synopsis:</h3>
-								<p>Hugo sort du coma et se retrouve face à Jade, son docteur, mais aussi sa femme. Elle empêchera Hugo de vivre et fera en sorte de refréner sa curiosité, jusqu'au moment où il découvrira ce qu'il n'aurait pas dû découvrir.</p>
+								<p>2Nuts retrace l'histoire d'un frère, Ben, et de sa soeur, Jeanne, blessés par la faillite de la boulangerie familiale de leurs parents. Une faillite causée en grande partie par l'émergence d'une nouvelle entreprise de production de donuts : 2Nuts. Les deux vont alors n'avoir plus qu'un but : découvrir l'origine d’un tel succès de 2Nuts et essayer de démanteler l'entreprise qui a détruit leur famille...</p>
 							</div>
 						</div>
 					</div>

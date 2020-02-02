@@ -159,7 +159,7 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
-		border-bottom: dotted 1px;
+		/* border-bottom: dotted 1px; */
 		text-decoration: none;
 	}
 
@@ -298,7 +298,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #18bfef !important;
+			color: #ddd08d !important;
 		}
 
 	strong, b {
@@ -4695,17 +4695,21 @@ input, select, textarea {
 
 	}
 
+/*------------------ PARTE FILMS------------------- */
+
 	.movies{
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: space-between;
+		align-items: center;
 	}
 
 	.movie{
 		position: relative;
-		width: 450px;
-		height: 650px;
+		display: flex;
+		align-items: center;
 		z-index: 200;
+		height: 650px;
 	}
 
 	.movie div{
@@ -4719,16 +4723,87 @@ input, select, textarea {
 		opacity: 1;
 	}
 
-	.movie div:hover{
-		background-color: #FFF;
-	}
-
-	.movie h2{
+	.movie a{
 		opacity: 0;
-		font-size: 60px;
-		line-height: 650px;
+		width: 450px;
+		height: 650px;
+		font-size: 50px;
 	}
 
-	.movie h2:hover{
+	.movie a:hover{
 		opacity: 1;
+	}
+
+	@media screen and (max-width: 580px) {
+
+		.movie div{
+			background-image: cover;
+			width: 80vw;
+		}
+
+	}
+
+	/*------------------ PARTE FILM------------------- */
+
+	.movie_view div:first-child{
+		display: flex;
+	}
+
+	.movie_view div:first-child div:first-child{
+		margin-bottom: 25px;
+		margin-right: 25px;
+	}
+
+	.movie_view div div{
+		display: flex;
+		flex-direction: column;
+	}
+
+	.movie_view h2{
+		font-size: 100px;
+	}
+
+
+	@media screen and (max-width: 780px) {
+
+		.movie_view div:first-child{
+			display: block;
+			text-align: center;
+		}
+
+		.movie_view div:first-child div:first-child{
+			margin: 0;
+		}
+
+		.movie_view a{
+			background-color: #ddd08d;
+			border-radius: 1000px;
+			font-size: 25px;
+			font-weight: bold;
+		}
+
+		.movie_view a:hover{
+			background-color: #FFF;
+			border: #000;
+		}
+
+		.movie_view h2{
+			font-size: 55px;
+		}
+
+		.movie_view h3{
+			margin-top: 25px;
+		}
+
+		.movie_view #time{
+			text-align: center;
+		}
+	}
+
+	@media screen and (max-width: 580px) {
+
+		.movie_view img{
+			width: 80vw;
+		}
+
 	}

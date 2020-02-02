@@ -26,7 +26,7 @@
 				<!-- Nav -->
 					<nav id="nav">
 						<ul class="links">
-							<li class="active"><a href="#">À moi</a></li>
+							<li class="active"><a href="#">Surexposée</a></li>
 							<li ><a href="index.php">Les MMI d'or ?</a></li>
 							<li><a href="films.php">Les Films</a></li>
 							<li><a href="soiree.php">La soirée</a></li>
@@ -45,18 +45,19 @@
 						<div class=movie_view>
 						<div>
 							<div>
-								<img src="./images/movies/a_moi.png">
+								<img src="./images/movies/surexposee.png">
 							</div>
 							<div>
-								<h2>À moi</h2>
-								<p id='time'>Durée: 8 minutes</p>
-								<a href="https://youtu.be/Ae0SJG26FXI" target="_blank">Teaser</a>
+								<h2>Surexposée</h2>
+								<p id='time'>Durée: -- minutes</p>
+								<!-- <a href="" target="_blank">Teaser</a> -->
 							</div>
 
 						</div>
 							<div>
 								<h3>Synopsis:</h3>
-								<p>Hugo sort du coma et se retrouve face à Jade, son docteur, mais aussi sa femme. Elle empêchera Hugo de vivre et fera en sorte de refréner sa curiosité, jusqu'au moment où il découvrira ce qu'il n'aurait pas dû découvrir.</p>
+								<p>Deux meilleures amies, Rachel qui rêve de devenir mannequin depuis toujours et Clémence, étudiante en droit. Rachel pense qu’elle arrivera sans soucis à percer dans ce milieu.
+Mais contre toute attente, c’est son amie Clémence qui va attirer l’oeil d’un photographe. </p>
 							</div>
 						</div>
 					</div>

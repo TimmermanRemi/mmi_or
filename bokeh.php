@@ -26,7 +26,7 @@
 				<!-- Nav -->
 					<nav id="nav">
 						<ul class="links">
-							<li class="active"><a href="#">À moi</a></li>
+							<li class="active"><a href="#">Bokeh</a></li>
 							<li ><a href="index.php">Les MMI d'or ?</a></li>
 							<li><a href="films.php">Les Films</a></li>
 							<li><a href="soiree.php">La soirée</a></li>
@@ -45,18 +45,18 @@
 						<div class=movie_view>
 						<div>
 							<div>
-								<img src="./images/movies/a_moi.png">
+								<img src="./images/movies/bokeh.png">
 							</div>
 							<div>
-								<h2>À moi</h2>
-								<p id='time'>Durée: 8 minutes</p>
-								<a href="https://youtu.be/Ae0SJG26FXI" target="_blank">Teaser</a>
+								<h2>Bokeh</h2>
+								<p id='time'>Durée: 11 minutes</p>
+								<a href="https://www.youtube.com/watch?v=vZAWJrVXdXs " target="_blank">Teaser</a>
 							</div>
 
 						</div>
 							<div>
 								<h3>Synopsis:</h3>
-								<p>Hugo sort du coma et se retrouve face à Jade, son docteur, mais aussi sa femme. Elle empêchera Hugo de vivre et fera en sorte de refréner sa curiosité, jusqu'au moment où il découvrira ce qu'il n'aurait pas dû découvrir.</p>
+								<p>Photographe de nature très renfermé, Paul part comme à son habitude faire un shooting en pleine nature. C’est alors qu'il fera la découverte d'un mystérieux objet lumineux possédant d'étranges propriétés électroniques. Le lendemain, il fera la connaissance d'Emma au détour d'un rayon. Elle se présentera à Paul en tant que débutante en photographie et profitera de l'occasion pour demander au jeune homme quelques conseils pratiques. Au fil de leurs rendez-vous, une relation va naître entre les deux protagonistes...Une relation qui bouleversera à jamais la vie de Paul.</p>
 							</div>
 						</div>
 					</div>

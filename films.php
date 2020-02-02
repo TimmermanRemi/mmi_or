@@ -35,7 +35,7 @@
 						<ul class="icons">
 							<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
 							<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-							<!-- <li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li> -->
+							<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
 						</ul>
 					</nav>
 
@@ -117,47 +117,47 @@
 
 						<div class=movies>
 							<div class=movie>
-								<h2>2nuts</h2>
+								<a href="2nuts.php">2nuts</a>
 									<div style="background-image: url(./images/movies/2nuts.png);">
 									</div>
 							</div>
 							<div class=movie>
-								<h2>A moi</h2>
+								<a href="a_moi.php">A moi</a>
 									<div style="background-image: url(./images/movies/a_moi.png);">
 									</div>
 							</div>
 							<div class=movie>
-								<h2>Betarisk</h2>
+								<a href="betarisk.php">Betarisk</a>
 									<div style="background-image: url(./images/movies/betarisk.png);">
 									</div>
 							</div>
 							<div class=movie>
-								<h2>Bokeh</h2>
+								<a href="bokeh.php">Bokeh</a>
 									<div style="background-image: url(./images/movies/bokeh.png);">
 									</div>
 							</div>
 							<div class=movie>
-								<h2>Desirium</h2>
+								<a href="desirium.php">Desirium</a>
 									<div style="background-image: url(./images/movies/desirium.png);">
 									</div>
 							</div>
 							<div class=movie>
-								<h2>Future note</h2>
+								<a href="future_note.php">Future note</a>
 									<div style="background-image: url(./images/movies/future_note.png);">
 									</div>
 							</div>
 							<div class=movie>
-								<h2>Perceptis</h2>
+								<a href="perceptis.php">Perceptis</a>
 									<div style="background-image: url(./images/movies/perceptis.png);">
 									</div>
 							</div>
 							<div class=movie>
-								<h2>Souvenir<br> perdu</h2>
+								<a href="souvenir_perdu.php">Souvenir perdu</a>
 									<div style="background-image: url(./images/movies/souvenir_perdu.png);">
 									</div>
 							</div>
 							<div class=movie>
-								<h2>Surexposée</h2>
+								<a href="surexposee.php">Surexposé</a>
 									<div style="background-image: url(./images/movies/surexposee.png);">
 									</div>
 							</div>

@@ -26,7 +26,7 @@
 				<!-- Nav -->
 					<nav id="nav">
 						<ul class="links">
-							<li class="active"><a href="#">À moi</a></li>
+							<li class="active"><a href="#">Souvenir perdu</a></li>
 							<li ><a href="index.php">Les MMI d'or ?</a></li>
 							<li><a href="films.php">Les Films</a></li>
 							<li><a href="soiree.php">La soirée</a></li>
@@ -45,18 +45,23 @@
 						<div class=movie_view>
 						<div>
 							<div>
-								<img src="./images/movies/a_moi.png">
+								<img src="./images/movies/souvenir_perdu.png">
 							</div>
 							<div>
-								<h2>À moi</h2>
-								<p id='time'>Durée: 8 minutes</p>
-								<a href="https://youtu.be/Ae0SJG26FXI" target="_blank">Teaser</a>
+								<h2>Souvenir perdu</h2>
+								<p id='time'>Durée: 7 minutes</p>
+								<a href="https://youtu.be/4qiQMMjqGuo" target="_blank">Teaser</a>
 							</div>
 
 						</div>
 							<div>
 								<h3>Synopsis:</h3>
-								<p>Hugo sort du coma et se retrouve face à Jade, son docteur, mais aussi sa femme. Elle empêchera Hugo de vivre et fera en sorte de refréner sa curiosité, jusqu'au moment où il découvrira ce qu'il n'aurait pas dû découvrir.</p>
+								<p>Daniel Le Vallet est mort. Sa femme, Sarah, et leurs enfants, Gabrielle et Mike, doivent faire leurs deuils et passer la difficile épreuve du rendez-vous chez le notaire. Aucun d’entre eux ne sait à quoi il aura le droit.
+Sarah, mère de famille, est la première sur le testament. Sans surprise, elle recevra la totalité des biens immobiliers. Chose plus étrange cependant, elle aura également la bibliothèque personnelle de son mari. Cette dernière faisait surtout office de bureau pour le défunt et Sarah n’a jamais eu le droit d’y mettre les pieds, ni même de ne serait-ce que dépasser un peu le seuil de la porte.
+Gabrielle, l’aînée, aura droit à la voiture de son père. Ce n’est pas totalement inattendu; elle est même plutôt heureuse. C’était avec lui qu’elle avait appris à conduire et ils se retrouvaient souvent tous les deux à laver le véhicule ensemble, à rigoler, à jouer parfois avec l’eau et les éponges gorgées de savon.
+Enfin, Mike, le cadet, voit son tour arriver. Il recevra la guitare de son père, celle avec qui ce dernier lui jouait toujours mille et un morceaux de sa composition. Ce n’est peut-être pas aussi tape-à-l’oeil que la voiture de sa soeur mais il n’en a que faire. Ce legs a, à ses yeux, une valeur inégalable.
+Normalement, le testament devrait s’arrêter là. Daniel n’avait que peu d’amis proches et ne parlait quasiment plus à sa propre famille.
+Pourtant, voilà que le notaire ne donne pas mine de vouloir arrêter sa lecture. Un autre nom est prononcé. “Layla Anna Constance Carpentier”. Qui est donc cette femme dont ni Sarah, ni Gabrielle, ni Mike n’ont jamais entendue parler ? Pourquoi Daniel lui lègue-t-il quelque chose ? Que contient donc cette boîte blanche ?</p>
 							</div>
 						</div>
 					</div>

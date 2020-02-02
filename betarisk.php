@@ -26,7 +26,7 @@
 				<!-- Nav -->
 					<nav id="nav">
 						<ul class="links">
-							<li class="active"><a href="#">À moi</a></li>
+							<li class="active"><a href="#">Betarisk</a></li>
 							<li ><a href="index.php">Les MMI d'or ?</a></li>
 							<li><a href="films.php">Les Films</a></li>
 							<li><a href="soiree.php">La soirée</a></li>
@@ -45,18 +45,31 @@
 						<div class=movie_view>
 						<div>
 							<div>
-								<img src="./images/movies/a_moi.png">
+								<img src="./images/movies/betarisk.png">
 							</div>
 							<div>
-								<h2>À moi</h2>
-								<p id='time'>Durée: 8 minutes</p>
-								<a href="https://youtu.be/Ae0SJG26FXI" target="_blank">Teaser</a>
+								<h2>Betarisk</h2>
+								<p id='time'>Durée: -- minutes</p>
+								<!-- <a href="https://www.youtube.com/watch?v=0RgHbZXDVS8" target="_blank">Teaser</a> -->
 							</div>
 
 						</div>
 							<div>
 								<h3>Synopsis:</h3>
-								<p>Hugo sort du coma et se retrouve face à Jade, son docteur, mais aussi sa femme. Elle empêchera Hugo de vivre et fera en sorte de refréner sa curiosité, jusqu'au moment où il découvrira ce qu'il n'aurait pas dû découvrir.</p>
+								<p>Le court-métrage met en scène une application qui se nomme
+BetaRisk. Celle-ci est le cœur de l’histoire et le fil rouge.
+Elle permet aux utilisateurs de faire des défis et d’en proposer.
+Les défis sont validés grâce aux vidéos prises en live (qui font office
+de preuves). Ceux-ci peuvent être une simple vengeance entre
+voisinage avec une poubelle renversée et aller jusqu’au meurtre. Un
+système de niveau va permettre aux utilisateurs d'atteindre des défis
+de plus en plus corsés et d’être de plus en plus payés pour les
+accomplir. Le paiement s'effectue par bitcoins, car cette monnaie est
+actuellement en plein essor.
+Durant le court-métrage, nous allons donc découvrir la vie de
+Romain qui est adepte de l’application et de sa sœur, Betty, qui va
+essayer de le dissuader d’y jouer. La vie d’Ugo, le meilleur ami de
+Romain, va être remise en question à cause de cette application…</p>
 							</div>
 						</div>
 					</div>

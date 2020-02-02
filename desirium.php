@@ -26,7 +26,7 @@
 				<!-- Nav -->
 					<nav id="nav">
 						<ul class="links">
-							<li class="active"><a href="#">À moi</a></li>
+							<li class="active"><a href="#">Desirium</a></li>
 							<li ><a href="index.php">Les MMI d'or ?</a></li>
 							<li><a href="films.php">Les Films</a></li>
 							<li><a href="soiree.php">La soirée</a></li>
@@ -45,18 +45,20 @@
 						<div class=movie_view>
 						<div>
 							<div>
-								<img src="./images/movies/a_moi.png">
+								<img src="./images/movies/desirium.png">
 							</div>
 							<div>
-								<h2>À moi</h2>
-								<p id='time'>Durée: 8 minutes</p>
-								<a href="https://youtu.be/Ae0SJG26FXI" target="_blank">Teaser</a>
+								<h2>Desirium</h2>
+								<p id='time'>Durée: -- minutes</p>
+								<a href="https://youtu.be/x7zoHKCz2cM" target="_blank">Teaser</a>
 							</div>
 
 						</div>
 							<div>
 								<h3>Synopsis:</h3>
-								<p>Hugo sort du coma et se retrouve face à Jade, son docteur, mais aussi sa femme. Elle empêchera Hugo de vivre et fera en sorte de refréner sa curiosité, jusqu'au moment où il découvrira ce qu'il n'aurait pas dû découvrir.</p>
+								<p>Organisation qui étudie le comportement humain, Desirium se penche sur la question « jusqu’où peut aller l’être humain pour un profit (ici de l’argent) ».
+Nous retrouvons donc ici Harold et Clothilde, deux jeunes adultes, qui tous deux seront cobayes de cette agence.
+Mais jusqu’où seront-ils prêt à aller pour gagner de l’argent ?</p>
 							</div>
 						</div>
 					</div>
