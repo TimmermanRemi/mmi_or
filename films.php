@@ -111,7 +111,10 @@
 // 											</div>
 // 										</div>";
               ?> -->
-							<p>Pour cette 7ème édition, les étudiants ont dû travailler autour de la thématique du secret. Voici donc les courts métrages produits par les étudiants :</p>
+							<article>
+								<h2>Les courts métrages</h2>
+								<p>Pour cette 7ème édition des mmi d'or, les étudiants ont dû travailler autour de la thématique du secret et laisser parler leurs imaginations. Voici donc les courts métrages produits par les étudiants :</p>
+						</article>
 
 						<div class=movies>
 							<div class=movie>
@@ -162,13 +165,13 @@
 						</div>
 
 
-
+						<footer class="footer">
+						<article class=info-footer>
+							<h4>Si vous éprouvez des difficultés, rencontrer un problème ou bien avez une question.</h4>
+							<p style="text-align: center;"> Nous nous tenons disponible sur <a href="https://www.facebook.com/mmi.dor.iut.lens/">Facebook</a> et sur notre adresse mail :<a href="mailto:?to=mmidor2020@gmail.com">mmidor2020@gmail.com</a></p>
+						</article>
+						</footer>
 					</div>
-
-
-
-
-				<!-- Footer -->
 
 				<!-- Copyright -->
 					<div id="copyright">

@@ -58,9 +58,13 @@
 								<p>2Nuts retrace l'histoire d'un frère, Ben, et de sa soeur, Jeanne, blessés par la faillite de la boulangerie familiale de leurs parents. Une faillite causée en grande partie par l'émergence d'une nouvelle entreprise de production de donuts : 2Nuts. Les deux vont alors n'avoir plus qu'un but : découvrir l'origine d’un tel succès de 2Nuts et essayer de démanteler l'entreprise qui a détruit leur famille...</p>
 							</div>
 						</div>
+						<footer class="footer">
+						<article class=info-footer>
+							<h4>Si vous éprouvez des difficultés, rencontrer un problème ou bien avez une question.</h4>
+							<p style="text-align: center;"> Nous nous tenons disponible sur <a href="https://www.facebook.com/mmi.dor.iut.lens/">Facebook</a> et sur notre adresse mail :<a href="mailto:?to=mmidor2020@gmail.com">mmidor2020@gmail.com</a></p>
+						</article>
+						</footer>
 					</div>
-
-				<!-- Footer -->
 
 				<!-- Copyright -->
 					<div id="copyright">

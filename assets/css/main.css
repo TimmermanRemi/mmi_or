@@ -4809,3 +4809,9 @@ input, select, textarea {
 		}
 
 	}
+
+	/*------------------ PARTE ACCUEIL------------------- */
+
+	#main iframe{
+		width: 100%;
+	}

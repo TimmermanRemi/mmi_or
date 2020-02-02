@@ -58,9 +58,13 @@
 								<p>Photographe de nature très renfermé, Paul part comme à son habitude faire un shooting en pleine nature. C’est alors qu'il fera la découverte d'un mystérieux objet lumineux possédant d'étranges propriétés électroniques. Le lendemain, il fera la connaissance d'Emma au détour d'un rayon. Elle se présentera à Paul en tant que débutante en photographie et profitera de l'occasion pour demander au jeune homme quelques conseils pratiques. Au fil de leurs rendez-vous, une relation va naître entre les deux protagonistes...Une relation qui bouleversera à jamais la vie de Paul.</p>
 							</div>
 						</div>
+						<footer class="footer">
+						<article class=info-footer>
+							<h4>Si vous éprouvez des difficultés, rencontrer un problème ou bien avez une question.</h4>
+							<p style="text-align: center;"> Nous nous tenons disponible sur <a href="https://www.facebook.com/mmi.dor.iut.lens/">Facebook</a> et sur notre adresse mail :<a href="mailto:?to=mmidor2020@gmail.com">mmidor2020@gmail.com</a></p>
+						</article>
+						</footer>
 					</div>
-
-				<!-- Footer -->
 
 				<!-- Copyright -->
 					<div id="copyright">

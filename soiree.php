@@ -38,9 +38,21 @@
 					</nav>
 
 				<!-- Main -->
-					<div id="main">
+					<div id="main"style="text-align: center;" >
+					<article>
+							<h2>La soirée</h2>
+							<p>Vous trouverez ci dessous le planning du déroulement de l'événement.</p>
+					</article>
 						<iframe src="https://feed.mikle.com/widget/v2/123141/?preloader-text=Loading" height="600px" width="100%" class="fw-iframe" scrolling="no" frameborder="0"></iframe>
 
+
+						<footer class="footer">
+						<article class=info-footer>
+							<h4>Si vous éprouvez des difficultés, rencontrer un problème ou bien avez une question.</h4>
+							<p style="text-align: center;"> Nous nous tenons disponible sur <a href="https://www.facebook.com/mmi.dor.iut.lens/">Facebook</a> et sur notre adresse mail :<a href="mailto:?to=mmidor2020@gmail.com">mmidor2020@gmail.com</a></p>
+						</article>
+						</footer>
+					</div>
 				<!-- Copyright -->
 					<div id="copyright">
 						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>

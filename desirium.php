@@ -60,10 +60,15 @@ Nous retrouvons donc ici Harold et Clothilde, deux jeunes adultes, qui tous deux
 Mais jusqu’où seront-ils prêt à aller pour gagner de l’argent ?</p>
 							</div>
 						</div>
+						<footer class="footer">
+						<article class=info-footer>
+							<h4>Si vous éprouvez des difficultés, rencontrer un problème ou bien avez une question.</h4>
+							<p style="text-align: center;"> Nous nous tenons disponible sur <a href="https://www.facebook.com/mmi.dor.iut.lens/">Facebook</a> et sur notre adresse mail :<a href="mailto:?to=mmidor2020@gmail.com">mmidor2020@gmail.com</a></p>
+						</article>
+						</footer>
 					</div>
 
-				<!-- Footer -->
-
+		
 				<!-- Copyright -->
 					<div id="copyright">
 						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>

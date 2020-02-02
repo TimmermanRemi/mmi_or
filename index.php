@@ -57,15 +57,17 @@
 									 Touchant à la fois leur territoire mais aussi les commerces de proximité via des partenariats.
 									 Les MMI D’OR sont un aboutissement pour le travail des étudiants, car elle permet la projection des films devant un public et un jury. </p>
 							</header>
-
 						</article>
+						<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7286.673184393123!2d2.670128459607801!3d50.47288557761967!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x29ce580f9df4766f!2sCentre%20Socio-culturel%20Georges%20Brassens!5e0!3m2!1sfr!2sfr!4v1580661984818!5m2!1sfr!2sfr" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+						<footer class="footer">
+						<article class=info-footer>
+							<h4>Si vous éprouvez des difficultés, rencontrer un problème ou bien avez une question.</h4>
+							<p style="text-align: center;"> Nous nous tenons disponible sur <a href="https://www.facebook.com/mmi.dor.iut.lens/">Facebook</a> et sur notre adresse mail :<a href="mailto:?to=mmidor2020@gmail.com">mmidor2020@gmail.com</a></p>
+						</article>
+						</footer>
 					</div>
 
-				<!-- Footer -->
-					<footer id="footer">
-
-					</footer>
-
+			
 				<!-- Copyright -->
 					<div id="copyright">
 						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>

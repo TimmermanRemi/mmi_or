@@ -64,9 +64,13 @@ Normalement, le testament devrait s’arrêter là. Daniel n’avait que peu d�
 Pourtant, voilà que le notaire ne donne pas mine de vouloir arrêter sa lecture. Un autre nom est prononcé. “Layla Anna Constance Carpentier”. Qui est donc cette femme dont ni Sarah, ni Gabrielle, ni Mike n’ont jamais entendue parler ? Pourquoi Daniel lui lègue-t-il quelque chose ? Que contient donc cette boîte blanche ?</p>
 							</div>
 						</div>
+						<footer class="footer">
+						<article class=info-footer>
+							<h4>Si vous éprouvez des difficultés, rencontrer un problème ou bien avez une question.</h4>
+							<p style="text-align: center;"> Nous nous tenons disponible sur <a href="https://www.facebook.com/mmi.dor.iut.lens/">Facebook</a> et sur notre adresse mail :<a href="mailto:?to=mmidor2020@gmail.com">mmidor2020@gmail.com</a></p>
+						</article>
+						</footer>
 					</div>
-
-				<!-- Footer -->
 
 				<!-- Copyright -->
 					<div id="copyright">
