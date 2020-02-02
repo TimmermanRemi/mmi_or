@@ -33,9 +33,7 @@
 							<li><a href="commande.php">Commander sa place</a></li>
 						</ul>
 						<ul class="icons">
-							<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-							<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-							<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="https://www.facebook.com/mmi.dor.iut.lens/" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
 						</ul>
 					</nav>
 
@@ -113,7 +111,7 @@
 // 											</div>
 // 										</div>";
               ?> -->
-
+							<p>Pour cette 7ème édition, les étudiants ont dû travailler autour de la thématique du secret. Voici donc les courts métrages produits par les étudiants :</p>
 
 						<div class=movies>
 							<div class=movie>

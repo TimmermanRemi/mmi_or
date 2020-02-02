@@ -4552,7 +4552,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#navPanelToggle {
-				font-size: 0.8rem;
+				font-size: 1.2rem;
 				padding: 0.25rem 1rem;
 			}
 
@@ -4728,21 +4728,23 @@ input, select, textarea {
 		width: 450px;
 		height: 650px;
 		font-size: 50px;
+		line-height: 650px;
+		background-color: rgba(255, 255, 255, 0.9);
 	}
 
 	.movie a:hover{
 		opacity: 1;
 	}
 
-	@media screen and (max-width: 580px) {
-
-		.movie div{
-			background-image: cover;
-			width: 80vw;
+	@media screen and (max-width: 780px) {
+		.movie{
+			height: 450px;
 		}
 
+		.movie div{
+			background-size: 70%;
+		}
 	}
-
 	/*------------------ PARTE FILM------------------- */
 
 	.movie_view div:first-child{
